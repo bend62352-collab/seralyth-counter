@@ -1,6 +1,0 @@
-C:\Users\iodk9\Downloads\SeralythCounter\obj\Debug\netstandard2.1\SeralythCounter.csproj.AssemblyReference.cache
-C:\Users\iodk9\Downloads\SeralythCounter\obj\Debug\netstandard2.1\SeralythCounter.IgnoresAccessChecksTo.cs
-C:\Users\iodk9\Downloads\SeralythCounter\obj\Debug\netstandard2.1\SeralythCounter.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\iodk9\Downloads\SeralythCounter\obj\Debug\netstandard2.1\SeralythCounter.AssemblyInfoInputs.cache
-C:\Users\iodk9\Downloads\SeralythCounter\obj\Debug\netstandard2.1\SeralythCounter.AssemblyInfo.cs
-C:\Users\iodk9\Downloads\SeralythCounter\obj\Debug\netstandard2.1\SeralythCounter.csproj.CoreCompileInputs.cache
